@@ -17,7 +17,7 @@ The purpose of this project is to demonstrate my understanding of responsive web
 - Git
 - Visual Studio Code
 
-# Features used
+# Concepts used
 - Mobile navigation bar
 - Carousel
 - Flexbox
@@ -26,4 +26,4 @@ The purpose of this project is to demonstrate my understanding of responsive web
 - Media query
 
 # Details
-The website is designed using mobile first approach mainly with the use of bootstrap and css styling. It also demonstrates on how the variable.css being utilised in Features & Recent Blog Posts sections. The entire screen is limited up to width 1600px.
+The website is designed using mobile first approach mainly with the use of bootstrap and CSS styling. It also demonstrates on how the variable.css being utilised in Features & Recent Blog Posts sections. The entire screen is limited up to width 1600px.
